@@ -49,6 +49,7 @@ public class FiliereForm extends javax.swing.JFrame {
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
+        jButton1.setBackground(new java.awt.Color(255, 102, 204));
         jButton1.setText("AFFICHER");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
